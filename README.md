@@ -1,12 +1,12 @@
-# Pandas Data Science Learning Journey 📊
+# Pandas Data Science Learning Journey 
 
 A comprehensive learning project focused on mastering pandas for data analysis and building foundational skills in AI and data science.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This repository contains my hands-on learning journey with pandas, NumPy, and data analysis techniques. The project includes practical exercises ranging from basic DataFrame operations to real-world data analysis scenarios.
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.13.7
@@ -44,7 +44,7 @@ This repository contains my hands-on learning journey with pandas, NumPy, and da
    cp .env.example .env  # Edit as needed
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pandas/
@@ -56,9 +56,9 @@ pandas/
 └── README.md               # This file
 ```
 
-## 📚 Learning Modules
+##  Learning Modules
 
-### 📖 Exercise 01: DataFrame Fundamentals
+###  Exercise 01: DataFrame Fundamentals
 **File:** `Notebook_ex01.ipynb`
 
 **Topics Covered:**
@@ -73,7 +73,7 @@ pandas/
 - Mixed data type handling
 - Index manipulation
 
-### 📊 Exercise 03: E-commerce Data Analysis
+###  Exercise 03: E-commerce Data Analysis
 **File:** `Notebook_ex03.ipynb`
 
 **Topics Covered:**
@@ -101,7 +101,7 @@ pandas/
 - String operations and parsing
 - Business intelligence insights
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Activate the environment:**
    ```bash
@@ -115,7 +115,7 @@ pandas/
 
 3. **Open any notebook file and start learning!**
 
-## 📈 Learning Objectives
+##  Learning Objectives
 
 - [ ] Master pandas DataFrame operations
 - [ ] Understand data cleaning and preprocessing
@@ -124,7 +124,7 @@ pandas/
 - [ ] Build foundation for machine learning workflows
 - [ ] Develop data visualization skills
 
-## 🎓 Skills Developed
+##  Skills Developed
 
 ### Technical Skills
 - **Data Manipulation:** Filtering, grouping, aggregating data
@@ -139,7 +139,7 @@ pandas/
 - **Critical Thinking:** Validating results and assumptions
 - **Business Intelligence:** Converting data into actionable insights
 
-## 🔧 Environment Configuration
+##  Environment Configuration
 
 The `.env` file contains:
 - Python path configurations
@@ -148,7 +148,7 @@ The `.env` file contains:
 - Development environment variables
 - Directory structure definitions
 
-## 🤝 Contributing
+##  Contributing
 
 This is a personal learning project, but feedback and suggestions are welcome! Feel free to:
 - Suggest additional exercises
@@ -156,14 +156,14 @@ This is a personal learning project, but feedback and suggestions are welcome! F
 - Share best practices
 - Point out improvements
 
-## 📝 Notes
+##  Notes
 
 - All notebooks include detailed comments and explanations
 - Code follows pandas best practices
 - Examples progress from basic to advanced concepts
 - Real-world datasets used for practical experience
 
-## 🔗 Resources
+##  Resources
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NumPy Documentation](https://numpy.org/doc/)
@@ -172,6 +172,6 @@ This is a personal learning project, but feedback and suggestions are welcome! F
 
 ---
 
-**Happy Learning!** 🎉
+**Happy Learning!** 
 
 *This project is part of my journey to master data science and AI fundamentals.*
